@@ -1,6 +1,6 @@
 [submodule "radegast"]
 	path = radegast
-	url = git@github.com:radegastdev/radegast.git
+	url = https://github.com/radegastdev/radegast.git
 [submodule "libopenmetaverse"]
 	path = libopenmetaverse
-	url = git@github.com:openmetaversefoundation/libopenmetaverse.git
+	url = https://github.com/openmetaversefoundation/libopenmetaverse.git
